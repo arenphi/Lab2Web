@@ -47,6 +47,7 @@ Hasil di browser = merah, karena inline CSS selalu meng-override yang lain. <br>
 
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1"` `class="text-paragraf">` )
 
-![image](ss/4d.png)
 ![image](ss/4dd.png)
+![image](ss/4d.png)
 ![image](ss/4ddd.png)
+Jika elemen memiliki ID dan Class sekaligus, maka ID lebih kuat dibanding class, sehingga gaya CSS dari ID yang akan tampil.
