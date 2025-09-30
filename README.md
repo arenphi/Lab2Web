@@ -2,11 +2,11 @@
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ![image](ss/4.png)
 <p align="center">gambar 1.1 sebelum menambah kode CSS</p>
-<p></p>
+<br>
 
 ![image](ss/4a.png)
 <p align="center">gambar 1.2 sesudah menambah kode CSS</p>
-<p></p>
+<br>
 
 ### 2. Apa perbedaan pendeklarasian CSS elemen `h1` `{...}` dengan `#intro` `h1` `{...}`? berikan penjelasannya!
 
