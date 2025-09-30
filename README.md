@@ -1,10 +1,12 @@
 # Tugas Pemrograman Web Pertemuan 3
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
+![image](ss/4aa.png)
 ![image](ss/4.png)
 <p align="center">gambar 1.1 sebelum menambah kode CSS</p>
 <br>
 
+![image](ss/4aaa.png)
 ![image](ss/4a.png)
 <p align="center">gambar 1.2 sesudah menambah kode CSS</p>
 <br>
