@@ -16,8 +16,12 @@
 
 ![image](ss/4b.png)
 
+<br>
+
 `intro h1 {...}`, disebut descendant selector, artinya hanya `<h1>` yang berada di dalam elemen dengan ID intro yang kena aturan ini.
+
 ![image](ss/4c.png)
+
 Jadi, `<h1>Hello World</h1>` yang ada di dalam `<div id="intro">...</div>` akan berwarna putih, bukan biru.
 
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
