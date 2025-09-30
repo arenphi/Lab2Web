@@ -1,11 +1,6 @@
 # Tugas Pemrograman Web Pertemuan 3
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
-`#intro h1 {
-    text-align: center;
-    border: 0;
-    color: #fff;
-}`
 ![image](ss/4.png)
 <p align="center">gambar 1.1 sebelum menambah kode CSS</p>
 <br>
