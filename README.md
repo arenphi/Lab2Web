@@ -24,9 +24,11 @@
 
 Jadi, `<h1>Hello World</h1>` yang ada di dalam `<div id="intro">...</div>` akan berwarna putih, bukan biru.
 
+<br>
+
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
-Jika semua dipakai pada elemen yang sama:
+Jika semua dipakai pada elemen yang sama: <br>
 
 A. Inline CSS → prioritas tertinggi. <br>
    (ditulis langsung di atribut `style=""` pada elemen HTML).
@@ -44,6 +46,8 @@ Inline mendefinisikan `style="color:red;"`. <br>
 <br>
 ![image](ss/4ba.png)
 Hasil di browser = merah, karena inline CSS selalu meng-override yang lain. <br>
+
+<br>
 
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1"` `class="text-paragraf">` )
 
