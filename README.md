@@ -12,15 +12,13 @@
 <br>
 
 ### 2. Apa perbedaan pendeklarasian CSS elemen `h1` `{...}` dengan `#intro` `h1` `{...}`? berikan penjelasannya!
-`h1 {...}`
-<br>
-selector type (tag). Semua elemen `<h1>` di halaman akan mengikuti aturan ini.
+`h1 {...}`, disebut type selector. Berlaku untuk semua tag `<h1>` di seluruh dokumen HTML.
+
 ![image](ss/4b.png)
 
-`intro h1 {...}`
-<br>
-selector descendant (spesifik pada `<h1>` yang ada di dalam elemen dengan ID intro). Jadi hanya `<h1>` di dalam `<div id="intro">...</div>` yang terkena.
+`intro h1 {...}`, disebut descendant selector, artinya hanya `<h1>` yang berada di dalam elemen dengan ID intro yang kena aturan ini.
 ![image](ss/4c.png)
+Jadi, `<h1>Hello World</h1>` yang ada di dalam `<div id="intro">...</div>` akan berwarna putih, bukan biru.
 
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
