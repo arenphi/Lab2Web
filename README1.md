@@ -4,3 +4,5 @@
 
 ### 2. Mendeklarasikan CSS Internal
 ![image](ss/1.png)
+
+### 3. Menambahkan Inline CSS
