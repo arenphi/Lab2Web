@@ -1,8 +1,10 @@
 # Tugas Pemrograman Web Pertemuan 3
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ![image](ss/4.png)
-gambar 1 sebelum menambah kode css
+<center> gambar 1.1 sebelum menambah kode CSS </center>
+
 ![image](ss/4a.png)
+<center> gambar 1.2 sesudah menambah kode CSS </center>
 
 ### 2. Apa perbedaan pendeklarasian CSS elemen `h1` `{...}` dengan `#intro` `h1` `{...}`? berikan penjelasannya!
 
