@@ -31,14 +31,18 @@ Jika semua dipakai pada elemen yang sama:
 A. Inline CSS → prioritas tertinggi. <br>
    (ditulis langsung di atribut `style=""` pada elemen HTML).
 
-B. Internal CSS → prioritas di bawah inline
+B. Internal CSS → prioritas di bawah inline <br>
    (ditulis di `<style>` di dalam file HTML).
 
-C. Eksternal CSS → prioritas paling rendah
+C. Eksternal CSS → prioritas paling rendah <br>
    (ditulis di file `.css` yang di-link).
 
 ![image](ss/4bb.png)
 ![image](ss/4ba.png)
 
+Eksternal (`style_eksternal.css`) misalnya mendefinisikan `h1 { color: blue; }`.
+Internal mendefinisikan `h1 { color: green; }`.
+Inline mendefinisikan `style="color:red;"`. <br>
+Hasil di browser = merah, karena inline CSS selalu meng-override yang lain.
 
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1"` `class="text-paragraf">` )
