@@ -4,8 +4,7 @@
 <center> gambar 1.1 sebelum menambah kode CSS </center>
 
 ![image](ss/4a.png)
-
-<h2 align="center"Material Bread</h2>
+<h1 align="center">Material Bread</h1>
 
 ### 2. Apa perbedaan pendeklarasian CSS elemen `h1` `{...}` dengan `#intro` `h1` `{...}`? berikan penjelasannya!
 
