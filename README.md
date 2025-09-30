@@ -9,10 +9,13 @@
 <br>
 
 ### 2. Apa perbedaan pendeklarasian CSS elemen `h1` `{...}` dengan `#intro` `h1` `{...}`? berikan penjelasannya!
+`h1 {...}`
+<br>
 selector type (tag). Semua elemen `<h1>` di halaman akan mengikuti aturan ini.
 ![image](ss/4b.png)
 
-#intro h1 {...}
+`intro h1 {...}`
+<br>
 selector descendant (spesifik pada `<h1>` yang ada di dalam elemen dengan ID intro). Jadi hanya `<h1>` di dalam `<div id="intro">...</div>` yang terkena.
 ![image](ss/4c.png)
 
