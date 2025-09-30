@@ -9,6 +9,8 @@
 <br>
 
 ### 2. Apa perbedaan pendeklarasian CSS elemen `h1` `{...}` dengan `#intro` `h1` `{...}`? berikan penjelasannya!
+selector type (tag). Semua elemen <h1> di halaman akan mengikuti aturan ini.
+![image](ss/4b.png)
 
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
