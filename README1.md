@@ -7,3 +7,9 @@
 
 ### 3. Menambahkan Inline CSS
 ![image](ss/2.png)
+
+### 4. Membuat CSS Eksternal
+![image](ss/3.png)
+
+### 5. Menambahkan CSS Selector
+![image](ss/4.png)
