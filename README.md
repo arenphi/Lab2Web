@@ -28,7 +28,7 @@ Jadi, `<h1>Hello World</h1>` yang ada di dalam `<div id="intro">...</div>` akan 
 
 Jika semua dipakai pada elemen yang sama:
 
-A. Inline CSS → prioritas tertinggi.
+A. Inline CSS → prioritas tertinggi. <br>
    (ditulis langsung di atribut `style=""` pada elemen HTML).
 
 B. Internal CSS → prioritas di bawah inline
