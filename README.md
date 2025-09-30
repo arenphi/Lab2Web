@@ -29,10 +29,10 @@ Jadi, `<h1>Hello World</h1>` yang ada di dalam `<div id="intro">...</div>` akan 
 Jika semua dipakai pada elemen yang sama:
 
 A. Inline CSS → prioritas tertinggi.
-   (ditulis langsung di atribut style="" pada elemen HTML).
+   (ditulis langsung di atribut `style=""` pada elemen HTML).
 
-B. Internal CSS → prioritas di bawah inline (ditulis di <style> di dalam file HTML).
+B. Internal CSS → prioritas di bawah inline (ditulis di `<style>` di dalam file HTML).
 
-C. Eksternal CSS → prioritas paling rendah (ditulis di file .css yang di-link).
+C. Eksternal CSS → prioritas paling rendah (ditulis di file `.css` yang di-link).
 
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1"` `class="text-paragraf">` )
