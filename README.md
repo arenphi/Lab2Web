@@ -43,6 +43,7 @@ Internal mendefinisikan `h1 { color: green; }`. <br>
 Inline mendefinisikan `style="color:red;"`. <br>
 <br>
 ![image](ss/4ba.png)
-Hasil di browser = merah, karena inline CSS selalu meng-override yang lain.
+Hasil di browser = merah, karena inline CSS selalu meng-override yang lain. <br>
 
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1"` `class="text-paragraf">` )
+
