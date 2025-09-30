@@ -21,4 +21,13 @@ selector descendant (spesifik pada `<h1>` yang ada di dalam elemen dengan ID int
 
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 
+Jika semua dipakai pada elemen yang sama:
+
+A. Inline CSS → prioritas tertinggi.
+   (ditulis langsung di atribut style="" pada elemen HTML).
+
+B. Internal CSS → prioritas di bawah inline (ditulis di <style> di dalam file HTML).
+
+C. Eksternal CSS → prioritas paling rendah (ditulis di file .css yang di-link).
+
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1"` `class="text-paragraf">` )
