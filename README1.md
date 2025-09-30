@@ -6,3 +6,4 @@
 ![image](ss/1.png)
 
 ### 3. Menambahkan Inline CSS
+![image](ss/2.png)
