@@ -65,3 +65,13 @@ nav a:hover {
 .btn-primary {
     background: #e42a42;
 }
+
+.text-paragraf {
+    color: red;
+    font-size: 18px;
+}
+
+#paragraf-1 {
+    color: #fff;
+    font-size: 20px;
+}
