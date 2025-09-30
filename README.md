@@ -38,11 +38,11 @@ C. Eksternal CSS → prioritas paling rendah <br>
    (ditulis di file `.css` yang di-link).
 
 ![image](ss/4bb.png)
-![image](ss/4ba.png)
-
-Eksternal (`style_eksternal.css`) misalnya mendefinisikan `h1 { color: blue; }`.
-Internal mendefinisikan `h1 { color: green; }`.
+Eksternal (`style_eksternal.css`) misalnya mendefinisikan `h1 { color: blue; }`. <br>
+Internal mendefinisikan `h1 { color: green; }`. <br>
 Inline mendefinisikan `style="color:red;"`. <br>
+<br>
+![image](ss/4ba.png)
 Hasil di browser = merah, karena inline CSS selalu meng-override yang lain.
 
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( `<p id="paragraf-1"` `class="text-paragraf">` )
